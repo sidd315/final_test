@@ -1,6 +1,10 @@
 bhukkad= input("Bhuk laga hai Kya?")
 if bhukkad=="YES":
     print("Kuch khaale bc")
-    print("Par ver hona chaiye")
+    print("Par veg hona chaiye")
 else:
-    print("jaa hagke aa")
+    thirsty = input("Pyaasa hai kya bc??")
+    if(thirsty=="yes"):
+        print("jaa fir kuch paani vaani peekr aa")
+
+
