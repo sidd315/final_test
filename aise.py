@@ -5,6 +5,7 @@ if bhukkad=="YES":
 else:
     print("jaa hagke aa")
     print("tissue lekar jaana")
+    print("this is the new line that i originally typed in thirsty")
 
 
 
