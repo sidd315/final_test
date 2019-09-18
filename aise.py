@@ -3,9 +3,8 @@ if bhukkad=="YES":
     print("Kuch khaale bc")
     print("Par veg hona chaiye")
 else:
-    thirsty = input("Pyaasa hai kya bc??")
-    if(thirsty=="yes"):
-        print("jaa fir kuch paani vaani peekr aa")
-        print("par pepsi wo sab mat peena")
-        
+    print("jaa hagke aa")
+    print("hello friends chai peelo")
+
+
 
