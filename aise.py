@@ -4,7 +4,7 @@ if bhukkad=="YES":
     print("Par veg hona chaiye")
 else:
     print("jaa hagke aa")
-    print("hello friends chai peelo")
+    print("tissue lekar jaana")
 
 
 
