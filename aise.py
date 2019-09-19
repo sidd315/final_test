@@ -1,10 +1,10 @@
-bhukkad= input("Bhuk laga hai Kya?")
+bhukkad= input("HUNGRY")
 if bhukkad=="YES":
-    print("Kuch khaale bc")
-    print("Par veg hona chaiye")
+    print("EAT")
+    print("Something veg")
 else:
-    print("jaa aur baadmei aa")
-    print("abhi he jaa")
+    print("GO HOME")
+    print("GO NOW")
     print("hahahaha")
 
 
